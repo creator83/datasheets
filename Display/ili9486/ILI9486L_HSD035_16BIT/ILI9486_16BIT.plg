@@ -1,0 +1,19 @@
+<html>
+<body>
+<pre>
+<h1>礦ision2 Build Log</h1>
+<h2>Project:</h2>
+F:\ZHA\公司\模组资料包\3.5\KD350IT002资料包\ILI9486L_HSD032_16BIT\ILI9486.uv2
+Project File Date:  03/17/2014
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling 2509.C...
+2509.C(349): error C202: 'vcom': undefined identifier
+Target not created
+Build target 'Target 1'
+compiling 2509.C...
+linking...
+Program Size: data=13.0 xdata=0 code=52126
+creating hex file from "ILI9486_16BIT"...
+"ILI9486_16BIT" - 0 Error(s), 0 Warning(s).
